@@ -1,0 +1,23 @@
+.photo__slider {
+    display: none;
+    @media (max-width: 1220px) {
+        display: block;
+        margin: 0 auto;
+    }
+}
+.container-full-photo {
+    max-width: 1024px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.slider-row-photo {
+	width: 100%;
+}
+
+.swiper-photo {
+	width: 100%;
+}
+
+.content-photo__img {
+    margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: var(--page-bg);
+	color: var(--text-color);
+	font-family: var(--font-main);
+}
+
+a {
+	color: var(--color-text);
+}
+
+.mob-menu--active {
+	display: none;
+}
+.yellow {
+	color: #f2be22;
+}
